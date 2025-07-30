@@ -1,4 +1,6 @@
 # AI-Resume-Analyzer
+Got it! Here's a complete, copy-paste-ready `README.md` content you can place **right after** `# AI-Resume-Analyzer` in your GitHub project:
+
 A lightweight AI-powered resume analysis tool built using Python, Streamlit, and Natural Language Processing (NLP) libraries like spaCy. This application enables users to upload their resumes in PDF format and receive instant feedback on:
 
 - **ATS keyword matching** based on a job description
@@ -45,3 +47,24 @@ A lightweight AI-powered resume analysis tool built using Python, Streamlit, and
    ```bash
    git clone https://github.com/MrinalS2002/AI-Resume-Analyzer.git
    cd AI-Resume-Analyzer
+
+2. **Create a virtual environment**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the app**
+
+   ```bash
+   streamlit run app.py
+   ```
+
+---
