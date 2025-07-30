@@ -37,7 +37,9 @@ A lightweight AI-powered resume analysis tool built using Python, Streamlit, and
 ---
 
 ### 📸 Sample Screenshot
-> *(Add a screenshot of your app UI here once available)*
+> <img width="1155" height="840" alt="image" src="https://github.com/user-attachments/assets/49c6d0c7-3e3d-4105-bee0-eb81ec4b2457" />
+> 
+
 
 ---
 
